@@ -8,7 +8,7 @@ def main():
     # ----------------------------------------------
     # Load plain Hindi text file 
     # ----------------------------------------------
-    with open("data.txt", "r", encoding="utf-8") as f:
+    with open("hi_train.txt", "r", encoding="utf-8") as f:
         lines = [line.strip() for line in f if line.strip()]
 
     # Join lines to form the corpus

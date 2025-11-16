@@ -241,37 +241,11 @@ tokenizer.load("my_tokenizer.json")
 - **Memory issues?** - Reduce vocabulary size
 - **Slow inference?** - Use smaller vocabulary
 
-## 🤝 Contributing
-
-Want to improve this? 
-- Add support for other languages
-- Optimize tokenization speed
-- Improve UI/UX
-- Add more examples
-- Better documentation
-
-Feel free to fork and submit PRs!
 
 ## 📄 License
 
 MIT License - Use freely!
 
-## 🙏 Acknowledgments
 
-- Based on [BPE algorithm](https://en.wikipedia.org/wiki/Byte_pair_encoding)
-- UI inspired by [Tiktokenizer](https://tiktokenizer.vercel.app/)
-- Built with [Gradio](https://www.gradio.app/) 
-- Python's excellent [regex](https://github.com/mrabarnett/regex) library
-
----
-
-## 📞 Support
-
-- 📖 Check [DEPLOY.md](DEPLOY.md) for deployment help
-- 🐛 Open an issue for bugs
-- 💡 Suggestions welcome!
-- 📧 Contact maintainer
-
----
 
 Made with ❤️ for Hindi NLP | Last updated: November 2025
